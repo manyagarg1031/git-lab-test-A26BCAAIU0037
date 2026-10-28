@@ -2,3 +2,4 @@ Git tracks changes in files.
 Git helps developers collaborate.
 Git lets us restore earlier versions of work.
 Git supports branching and collaboration.
+Task 4: testing unstaging changes.
